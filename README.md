@@ -12,13 +12,13 @@
 
 # 강의 개요
 
-![image-20200531164326204](C:\Users\y0264\AppData\Roaming\Typora\typora-user-images\image-20200531164326204.png)
+![image](https://user-images.githubusercontent.com/27941099/83348267-ee1b1c80-a365-11ea-80c3-7cd100a9e727.png)
 
 ![image-20200531165030906](C:\Users\y0264\AppData\Roaming\Typora\typora-user-images\image-20200531165030906.png)프로그래밍이란 심플하게 생각하면 쉽고, 복잡하게 생각하게 되면 그만큼 어려운 것도 없는 과목이라 생각합니다. 여러분들에게 프로그래밍을 쉽게 느끼실 수 있도록 도와드리겠습니다.
 
 프로그래밍이란 눈으로만 보면 실력이 거의 늘지 않습니다. 게임 개발 과정을 직접 경험해보며 여러분들이 게임 개발자로써, 그리고 프로그래머로써의 눈을 조금이라도 뜨게 하는 것이 저의 목표입니다. 이 새로운 눈을 뜨게 된다면 게임을 볼 때 또는 개발을 할 때의 관점이 사뭇 달라지시는 것을 알 수 있을 것입니다. 
 
- ![image-20200531164647804](C:\Users\y0264\AppData\Roaming\Typora\typora-user-images\image-20200531164647804.png)
+ ![image](https://user-images.githubusercontent.com/27941099/83348281-0a1ebe00-a366-11ea-8b3a-5e53adabaf2f.png)
 
 강의는 유니티에 대해 전혀 모르시는 분들, 그리고 프로그래밍을 접하기 어러우신 분들을 위해 최대한 쉽고 실습 위주의 커리큘럼으로 이루어져 있습니다. 
 
@@ -26,7 +26,7 @@
 
 # 커리큘럼
 
-![image-20200531165125289](C:\Users\y0264\AppData\Roaming\Typora\typora-user-images\image-20200531165125289.png)
+![image](https://user-images.githubusercontent.com/27941099/83348292-1a369d80-a366-11ea-85f4-60941bc5f0c6.png)
 
 해당 강의는 개발에 필요한 개념에 대해 익힌 다음, 게임 개발에 들어갑니다. 규칙(스크립트 또는 프로그래밍)을 정립하는 시스템, 게임답게 만들어주는 컨텐츠를 통해 게임에 없어서는 안 될 요소들만 넣었습니다.
 
